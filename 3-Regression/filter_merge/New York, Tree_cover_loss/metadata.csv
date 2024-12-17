@@ -1,0 +1,10 @@
+title,New York, United States 树木覆盖减少的地点
+threshold,30
+extent_year,2000
+unit,ha
+page_size,5
+start_year,2018
+end_year,2019
+date_downloaded,2024-12-06
+metadata,https://api.resourcewatch.org/v1/gfw-metadata/widget_tree_cover_loss_location
+link,https://www.globalforestwatch.org/dashboards/country/USA/33/
